@@ -11,12 +11,12 @@ A modern, lightweight starter template for building React apps with:
 ---
 
 ## 🚀 Quick Start
-
+```bash
 npx degit yourusername/react-starter-template my-app
 cd my-app
 npm install
 npm run dev
-
+```
 ---
 
 ## 🌙 Dark Mode
