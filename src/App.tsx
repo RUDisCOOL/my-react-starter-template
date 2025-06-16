@@ -1,9 +1,12 @@
-import { ModeToggle } from "./components/mode-toggle";
+import Layout from "./layouts/layout";
+import CounterPage from "./pages/CounterPage";
 
 function App() {
   return (
     <>
-      <ModeToggle />
+      <Layout>
+        <CounterPage />
+      </Layout>
     </>
   );
 }
